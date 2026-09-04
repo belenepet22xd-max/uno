@@ -1,0 +1,6 @@
+{
+  "name": "Juego de Cartas UNO",
+  "description": "Juego de cartas interactivo UNO contra la computadora con reglas completas, efectos especiales, botón UNO y visualización responsiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
